@@ -1,2 +1,2 @@
 # hello-world
-# ust testing
+# just testing
